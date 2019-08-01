@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Insurance Child
+ Theme URI:    http://demo.vegatheme.com/insurance
+ Description:  Insurance Child Theme
+ Author:       OceanThemes Team
+ Author URI:   http://oceanthemes.net
+ Template:     insurance
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  insurance-child
+*/
+
+@import url("../insurance/style.css");
+
+/*** Style CSS for child theme here: ***/

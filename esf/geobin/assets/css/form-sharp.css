@@ -1,0 +1,22 @@
+body.sharpspring_form form fieldset ul li div input{
+	border: 0px;
+    padding: 16px;
+    padding-left:10px;
+    color:#999;
+    font-size:18px;
+}
+body.sharpspring_form form fieldset ul li div select{
+    padding: 16px;
+    width: 100%;
+    font-size: 18px;
+    color:#999;
+}
+body.sharpspring_form form fieldset ul li label{
+	display:none;
+}
+body.sharpspring_form form fieldset ul li .button{
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	text-shadow: none;
+	-webkit-border-radius: none;
+}

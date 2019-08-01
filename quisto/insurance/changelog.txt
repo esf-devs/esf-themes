@@ -1,0 +1,80 @@
+27/04/2018 - Version 2.5.3
+- Updated: Visual Composer version 5.4.7
+- Improved: Improving the CSS style
+- Improved: Improving the theme options
+- Files Edited: functions.php, sample-config.php, style.css
+
+17 November, 2017 - Version 2.5.2
+- Updated: Visual Composer version 5.4.3
+- Updated: Theme compatible with WordPress 4.9.x
+- Files Edited: functions.php, style.css
+
+10 August, 2017 - Version 2.5.0
+- Updated: Visual Composer version 5.2.1
+- Updated: Theme compatible with WordPress 4.8.x
+- Files Edited: functions.php, style.css
+
+12/04/2017 - Version 2.4
+- Updated: Visual Composer version 5.1.1
+- Updated: Theme compatible with Newsletter 4.8.9
+- Updated: FontAwesome 4.7.0
+- Files edit : style.css, footer.php, functions.php, sample-config.php, vc_shortcode.php, shortcode.php
+
+14/12/2016 - Version 2.3
+- Updated: Visual Composer version 5.0.1
+- Updated: Theme compatible with WordPress 4.7
+- Fixed: Conflict js with Visual Composer Tab, Tour, Accordion
+- Files edit : style.css, sample-config.php, archive-insurance.php, insurance.js, functions.php
+
+27/09/2016 - Version 2.0
+- Update Visual Composer 4.12.1
+- Update theme compatible with WordPress 4.6.1
+- Remove folder plugins in theme with path insurance/framework/
+- Files edit : style.css, insurance.js, functions.php
+
+11/07/2016 - Version 1.9
+- Update Visual Composer 4.12
+- Update Font Awesome Version 4.6.3
+- Update TGM-Plugin-Activation Version 2.6.1
+- Added : require install plugin "Redux Framework" from version 1.9 
+- Removed folder ""Redux-Framework" in folder theme.
+- Files edit : style.css, functions.php, vc_row.php, vc_shortcode.php, etc...
+
+20/04/2016 - Version 1.8.5
+- Update Visual Composer 4.11.2.1
+- Fixed menu parent have arrow down icon.
+- New added option on/off newsletter on footer and change text about newsletter form in Insurance Options.
+
+13/04/2016 - Version 1.8.4
+- Update Visual Composer 4.11.1
+- Compatible with WordPress latest version 4.5
+- Fixed js in file insurance.js
+- Files edit : functions.php, vc_row.php
+
+01/02/2016 - Version 1.8.2
+- Update Visual Composer 4.9.2
+- Fixed for menu the first level click to link out.
+- Files update : style.css, insurance.js, header.php
+
+07/01/2016 - Version 1.8.1
+- Fixed menu top
+- Update Visual Composer 4.9.1
+
+09/12/2015 - 1.2
+- Update Visual Composer latest version 4.9 
+- Change new file plugin Visual Composer latest version 4.9 in folder "plugins"
+- Remove file vc_column.php in folder theme insurance/vc_templates/
+- Added new sticky header
+- Added new back to top button
+- Files update : header.php, insurance.js, style.css, functions.php, 
+- Added new file in folder theme : 
+- insurance/images/ui.totop.png
+- insurance/js/jquery.ui.totop.js
+- Fixed responsive menu display on mobile.
+- Update demo content.
+- Added new files languages translate : en_US.po & en_US.mo in folder theme insurance/languages/
+
+06/10/2015 - Version 1.0.1
+- Update VC 4.7.4
+- fixed parent menu can't click
+- fixed responsive menu on mobile

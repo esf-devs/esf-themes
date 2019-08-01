@@ -1,0 +1,1776 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-10 04:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: archive-agent.php:8
+msgid "AGENT"
+msgstr ""
+
+#: archive-career.php:8
+msgid "ARCHIVE CAREERS"
+msgstr ""
+
+#: archive-career.php:52 single-career.php:65
+msgid "Job Category: "
+msgstr ""
+
+#: archive-career.php:53 single-career.php:87
+msgid "Location: "
+msgstr ""
+
+#: archive-claim.php:8
+msgid "CLAIMS"
+msgstr ""
+
+#: comments.php:22
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:23
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:28
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:46
+msgid "Submit Comments"
+msgstr ""
+
+#: content-audio.php:10 content-gallery.php:8 content-image.php:9
+#: content-video.php:10 content.php:9 single.php:51
+msgid "(0) comment"
+msgstr ""
+
+#: content-audio.php:10 content-gallery.php:8 content-image.php:9
+#: content-video.php:10 content.php:9 single.php:51
+msgid "(1) comment"
+msgstr ""
+
+#: content-audio.php:10 content-gallery.php:8 content-image.php:9
+#: content-video.php:10 content.php:9 single.php:51
+msgid "(%) comments"
+msgstr ""
+
+#: content-audio.php:20 content-gallery.php:29 content-image.php:31
+#: content-video.php:20 content.php:31
+msgid "Read more"
+msgstr ""
+
+#: functions.php:53
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:54
+msgid "top menu"
+msgstr ""
+
+#: functions.php:55
+msgid "menu footer"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Lora, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:73
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:79
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr ""
+
+#. Name of the template
+#: functions.php:152
+msgid "Home"
+msgstr ""
+
+#: functions.php:286
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:288
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#: functions.php:295
+msgid "Footer One Widget Area"
+msgstr ""
+
+#: functions.php:297 functions.php:307 functions.php:317 functions.php:327
+msgid "Footer Widget that appears on the Footer."
+msgstr ""
+
+#: functions.php:305
+msgid "Footer Two Widget Area"
+msgstr ""
+
+#: functions.php:315
+msgid "Footer Three Widget Area"
+msgstr ""
+
+#: functions.php:325
+msgid "Footer Fourth Widget Area"
+msgstr ""
+
+#: functions.php:421 taxonomy-category_insurance.php:7
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:428
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:491
+msgid "Extra id name"
+msgstr ""
+
+#: functions.php:494
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a id name and then refer to it in your css file."
+msgstr ""
+
+#: functions.php:498
+msgid "Fullwidth"
+msgstr ""
+
+#: functions.php:501
+msgid "No"
+msgstr ""
+
+#: functions.php:502
+msgid "Yes"
+msgstr ""
+
+#: functions.php:504
+msgid "Select Fullwidth or not, Default: No fullwidth"
+msgstr ""
+
+#: header-landing.php:30 header.php:44
+msgid "Call:"
+msgstr ""
+
+#: header.php:31
+msgid "search here..."
+msgstr ""
+
+#: header.php:33
+msgid "Search"
+msgstr ""
+
+#. Name of the template
+#: header.php:73
+msgid "Login"
+msgstr ""
+
+#: page.php:54 single.php:117
+msgid "Pages:"
+msgstr ""
+
+#: page.php:58 single.php:121
+msgid "Page"
+msgstr ""
+
+#: search-agent.php:11 search.php:13
+#, php-format
+msgid "Search Results For: %s"
+msgstr ""
+
+#: shortcodes.php:607
+msgid "Posted on "
+msgstr ""
+
+#: shortcodes.php:711
+msgid "Agent Name"
+msgstr ""
+
+#: shortcodes.php:712
+msgid "Enter Agent name"
+msgstr ""
+
+#: shortcodes.php:717
+msgid "State"
+msgstr ""
+
+#: shortcodes.php:751
+msgid "Enter a city"
+msgstr ""
+
+#: shortcodes.php:752
+msgid "city"
+msgstr ""
+
+#: shortcodes.php:756 shortcodes.php:758
+msgid "Select a State..."
+msgstr ""
+
+#: shortcodes.php:787
+msgid "Enter A Zip"
+msgstr ""
+
+#: shortcodes.php:788
+msgid "zip"
+msgstr ""
+
+#: shortcodes.php:1674 shortcodes.php:1738
+msgid "E - mail"
+msgstr ""
+
+#: shortcodes.php:1678 shortcodes.php:1742
+msgid "Password"
+msgstr ""
+
+#: shortcodes.php:1685 shortcodes.php:1753
+msgid "Forgot Password?"
+msgstr ""
+
+#: shortcodes.php:1726
+msgid "User name:"
+msgstr ""
+
+#: shortcodes.php:1730
+msgid "First Name:"
+msgstr ""
+
+#: shortcodes.php:1734
+msgid "Last Name:"
+msgstr ""
+
+#: shortcodes.php:1746
+msgid "Re-enter password"
+msgstr ""
+
+#: single-agent.php:12
+msgid "Agent Detail"
+msgstr ""
+
+#: single-agent.php:125
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#: single-agent.php:126 single-agent.php:183
+msgid "Contact Me"
+msgstr ""
+
+#: single-agent.php:132 single-agent.php:190
+msgid "First Name"
+msgstr ""
+
+#: single-agent.php:137 single-agent.php:195
+msgid "E-mail"
+msgstr ""
+
+#: single-agent.php:144 single-agent.php:203
+msgid "Phone"
+msgstr ""
+
+#: single-agent.php:149 single-agent.php:209
+msgid "Option one"
+msgstr ""
+
+#: single-agent.php:150 single-agent.php:210
+msgid "Option two"
+msgstr ""
+
+#: single-agent.php:151 single-agent.php:211
+msgid "Option three"
+msgstr ""
+
+#: single-agent.php:152 single-agent.php:212
+msgid "Option four"
+msgstr ""
+
+#: single-agent.php:153 single-agent.php:213
+msgid "Option five"
+msgstr ""
+
+#: single-agent.php:161 single-agent.php:221
+msgid "Comment"
+msgstr ""
+
+#: single-agent.php:169 single-agent.php:229
+msgid "Submit"
+msgstr ""
+
+#: single-agent.php:179
+msgid "Sorry, an error occured."
+msgstr ""
+
+#: single-career.php:12
+msgid "Career Details Page"
+msgstr ""
+
+#: single.php:140
+msgid "All posts by Mark Mathon"
+msgstr ""
+
+#: single.php:149
+msgctxt "Previous post link"
+msgid ""
+"<span class=\"meta-nav\"><i class=\"fa fa-long-arrow-left\"> Previous "
+"Post</i></span> <h3> %title </h3>"
+msgstr ""
+
+#: vc_shortcode.php:8
+msgid "OT Heading"
+msgstr ""
+
+#: vc_shortcode.php:28 vc_shortcode.php:619 vc_shortcode.php:673
+#: vc_shortcode.php:1165 vc_shortcode.php:1311 vc_shortcode.php:1641
+#: vc_shortcode.php:1719 vc_shortcode.php:1908 vc_shortcode.php:2017
+#: vc_shortcode.php:2201 vc_shortcode.php:2999 vc_shortcode.php:3058
+msgid "Title"
+msgstr ""
+
+#: vc_shortcode.php:34 vc_shortcode.php:625 vc_shortcode.php:679
+#: vc_shortcode.php:756 vc_shortcode.php:924 vc_shortcode.php:1073
+#: vc_shortcode.php:1725 vc_shortcode.php:1914 vc_shortcode.php:2207
+#: vc_shortcode.php:2581 vc_shortcode.php:2671 vc_shortcode.php:2799
+#: vc_shortcode.php:2929
+msgid "Enter the title"
+msgstr ""
+
+#: vc_shortcode.php:41
+msgid "Element Tag"
+msgstr ""
+
+#: vc_shortcode.php:46
+msgid "h1"
+msgstr ""
+
+#: vc_shortcode.php:48
+msgid "h2"
+msgstr ""
+
+#: vc_shortcode.php:50
+msgid "h3"
+msgstr ""
+
+#: vc_shortcode.php:52
+msgid "h4"
+msgstr ""
+
+#: vc_shortcode.php:54
+msgid "h5"
+msgstr ""
+
+#: vc_shortcode.php:56
+msgid "h6"
+msgstr ""
+
+#: vc_shortcode.php:58
+msgid "p"
+msgstr ""
+
+#: vc_shortcode.php:60
+msgid "div"
+msgstr ""
+
+#: vc_shortcode.php:63
+msgid "Section Element Tag"
+msgstr ""
+
+#: vc_shortcode.php:70
+msgid "Text Align"
+msgstr ""
+
+#: vc_shortcode.php:75
+msgid "left"
+msgstr ""
+
+#: vc_shortcode.php:77
+msgid "right"
+msgstr ""
+
+#: vc_shortcode.php:79
+msgid "center"
+msgstr ""
+
+#: vc_shortcode.php:81
+msgid "justify"
+msgstr ""
+
+#: vc_shortcode.php:85
+msgid "Select text align"
+msgstr ""
+
+#: vc_shortcode.php:96
+msgid "Font Size"
+msgstr ""
+
+#: vc_shortcode.php:102
+msgid "Enter the font size"
+msgstr ""
+
+#: vc_shortcode.php:113 vc_shortcode.php:1532
+msgid "Color"
+msgstr ""
+
+#: vc_shortcode.php:119
+msgid "Select color"
+msgstr ""
+
+#: vc_shortcode.php:130
+msgid "Class Extra"
+msgstr ""
+
+#: vc_shortcode.php:136
+msgid "Add class extra"
+msgstr ""
+
+#: vc_shortcode.php:152
+msgid "OT slider Home"
+msgstr ""
+
+#: vc_shortcode.php:172 vc_shortcode.php:213 vc_shortcode.php:254
+#: vc_shortcode.php:312 vc_shortcode.php:384 vc_shortcode.php:883
+msgid "Number"
+msgstr ""
+
+#: vc_shortcode.php:178
+msgid "Enter the number show"
+msgstr ""
+
+#: vc_shortcode.php:193
+msgid "OT Our Agent"
+msgstr ""
+
+#: vc_shortcode.php:219 vc_shortcode.php:318 vc_shortcode.php:390
+msgid "Number show"
+msgstr ""
+
+#: vc_shortcode.php:234
+msgid "OT Claim"
+msgstr ""
+
+#: vc_shortcode.php:260
+msgid "Number show: show all = -1. Only use with style 2"
+msgstr ""
+
+#: vc_shortcode.php:267
+msgid "Style claim"
+msgstr ""
+
+#: vc_shortcode.php:272
+msgid "Style1: icon and image "
+msgstr ""
+
+#: vc_shortcode.php:274
+msgid "Style2: button"
+msgstr ""
+
+#: vc_shortcode.php:279 vc_shortcode.php:410 vc_shortcode.php:850
+#: vc_shortcode.php:1017 vc_shortcode.php:1114 vc_shortcode.php:1278
+#: vc_shortcode.php:1541 vc_shortcode.php:1620 vc_shortcode.php:1689
+#: vc_shortcode.php:1875 vc_shortcode.php:1968 vc_shortcode.php:2151
+#: vc_shortcode.php:2315 vc_shortcode.php:2741 vc_shortcode.php:2872
+#: vc_shortcode.php:2965
+msgid "Select style"
+msgstr ""
+
+#: vc_shortcode.php:292
+msgid "OT Career"
+msgstr ""
+
+#: vc_shortcode.php:329 vc_shortcode.php:335
+msgid "Category Name"
+msgstr ""
+
+#: vc_shortcode.php:346
+msgid "idcate"
+msgstr ""
+
+#: vc_shortcode.php:352
+msgid "Enter idcate"
+msgstr ""
+
+#: vc_shortcode.php:364
+msgid "OT Insurance Project"
+msgstr ""
+
+#: vc_shortcode.php:397 vc_shortcode.php:1608 vc_shortcode.php:2139
+#: vc_shortcode.php:2303
+msgid "Style Testimonials"
+msgstr ""
+
+#: vc_shortcode.php:402
+msgid "Style1: slider insurance "
+msgstr ""
+
+#: vc_shortcode.php:404
+msgid "Style2: image insurance"
+msgstr ""
+
+#: vc_shortcode.php:406
+msgid "Style3: insurance"
+msgstr ""
+
+#: vc_shortcode.php:407
+msgid "Style4: insurance"
+msgstr ""
+
+#: vc_shortcode.php:424
+msgid "OT Detail Block"
+msgstr ""
+
+#: vc_shortcode.php:444 vc_shortcode.php:635 vc_shortcode.php:692
+#: vc_shortcode.php:784 vc_shortcode.php:952 vc_shortcode.php:1084
+msgid "Description"
+msgstr ""
+
+#: vc_shortcode.php:450
+msgid "Description details"
+msgstr ""
+
+#: vc_shortcode.php:461 vc_shortcode.php:2417
+msgid "Icon Social 1"
+msgstr ""
+
+#: vc_shortcode.php:467
+msgid ""
+"Input class icon 1. Ex: magic. Find here: <a href='http://fontawesome."
+"io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+#: vc_shortcode.php:478 vc_shortcode.php:2434
+msgid "Link Social 1"
+msgstr ""
+
+#: vc_shortcode.php:484 vc_shortcode.php:2440
+msgid "Link of social 1"
+msgstr ""
+
+#: vc_shortcode.php:495 vc_shortcode.php:2451
+msgid "Icon Social 2"
+msgstr ""
+
+#: vc_shortcode.php:501
+msgid ""
+"Input class icon 2. Ex: magic. Find here: <a href='http://fontawesome."
+"io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+#: vc_shortcode.php:512 vc_shortcode.php:2468
+msgid "Link Social 2"
+msgstr ""
+
+#: vc_shortcode.php:518 vc_shortcode.php:2474
+msgid "Link of social 2"
+msgstr ""
+
+#: vc_shortcode.php:529 vc_shortcode.php:2485
+msgid "Icon Social 3"
+msgstr ""
+
+#: vc_shortcode.php:535
+msgid ""
+"Input class icon 3. Ex: magic. Find here: <a href='http://fontawesome."
+"io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+#: vc_shortcode.php:546 vc_shortcode.php:2502
+msgid "Link Social 3"
+msgstr ""
+
+#: vc_shortcode.php:552 vc_shortcode.php:2508
+msgid "Link of social 3"
+msgstr ""
+
+#: vc_shortcode.php:563 vc_shortcode.php:2519
+msgid "Icon Social 4"
+msgstr ""
+
+#: vc_shortcode.php:569
+msgid ""
+"Input class icon 4. Ex: magic. Find here: <a href='http://fontawesome."
+"io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+#: vc_shortcode.php:580 vc_shortcode.php:2536
+msgid "Link Social 4"
+msgstr ""
+
+#: vc_shortcode.php:586 vc_shortcode.php:2542
+msgid "Link of social 4"
+msgstr ""
+
+#: vc_shortcode.php:600
+msgid "OT Block Quote 1"
+msgstr ""
+
+#: vc_shortcode.php:641 vc_shortcode.php:698 vc_shortcode.php:790
+#: vc_shortcode.php:958 vc_shortcode.php:1090
+msgid "Enter the description"
+msgstr ""
+
+#: vc_shortcode.php:654
+msgid "OT Block Quote 2"
+msgstr ""
+
+#: vc_shortcode.php:713
+msgid "OT Icon Boxes"
+msgstr ""
+
+#: vc_shortcode.php:733 vc_shortcode.php:901 vc_shortcode.php:1050
+#: vc_shortcode.php:1148
+msgid "Icon Box"
+msgstr ""
+
+#: vc_shortcode.php:739 vc_shortcode.php:907 vc_shortcode.php:1056
+#: vc_shortcode.php:1154
+msgid ""
+"Input class icon. Ex: magic. Find here: <a href='http://fontawesome."
+"io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+#: vc_shortcode.php:750 vc_shortcode.php:918 vc_shortcode.php:1067
+msgid "Title Box"
+msgstr ""
+
+#: vc_shortcode.php:767 vc_shortcode.php:935
+msgid "Subtitle Box"
+msgstr ""
+
+#: vc_shortcode.php:773 vc_shortcode.php:941 vc_shortcode.php:1743
+msgid "Enter the subtitle"
+msgstr ""
+
+#: vc_shortcode.php:801 vc_shortcode.php:969 vc_shortcode.php:2052
+#: vc_shortcode.php:2827
+msgid "Label Button"
+msgstr ""
+
+#: vc_shortcode.php:807
+msgid "Add text of button"
+msgstr ""
+
+#: vc_shortcode.php:818 vc_shortcode.php:986 vc_shortcode.php:2069
+#: vc_shortcode.php:2844
+msgid "Link Button"
+msgstr ""
+
+#: vc_shortcode.php:824 vc_shortcode.php:992 vc_shortcode.php:1222
+#: vc_shortcode.php:2075 vc_shortcode.php:2850
+msgid "Add link button"
+msgstr ""
+
+#: vc_shortcode.php:832 vc_shortcode.php:1000 vc_shortcode.php:1097
+#: vc_shortcode.php:1264 vc_shortcode.php:1865 vc_shortcode.php:1955
+#: vc_shortcode.php:2730 vc_shortcode.php:2857 vc_shortcode.php:2954
+msgid "Style Show"
+msgstr ""
+
+#: vc_shortcode.php:837 vc_shortcode.php:1269 vc_shortcode.php:1435
+msgid "None"
+msgstr ""
+
+#: vc_shortcode.php:838 vc_shortcode.php:1102
+msgid "Style 1: Box not icon"
+msgstr ""
+
+#: vc_shortcode.php:840 vc_shortcode.php:1007 vc_shortcode.php:1104
+msgid "Style 2: Box right"
+msgstr ""
+
+#: vc_shortcode.php:842 vc_shortcode.php:1009
+msgid "Style 3: Box center"
+msgstr ""
+
+#: vc_shortcode.php:844 vc_shortcode.php:1011
+msgid "Style 4: Box left"
+msgstr ""
+
+#: vc_shortcode.php:846 vc_shortcode.php:1110
+msgid "Style 5: icon center grey"
+msgstr ""
+
+#: vc_shortcode.php:863
+msgid "OT Step Boxes"
+msgstr ""
+
+#: vc_shortcode.php:889
+msgid " Number of step box "
+msgstr ""
+
+#: vc_shortcode.php:975 vc_shortcode.php:1205 vc_shortcode.php:1677
+#: vc_shortcode.php:1795 vc_shortcode.php:2833
+msgid "Add text for button"
+msgstr ""
+
+#: vc_shortcode.php:1005
+msgid "Style 1: not icon"
+msgstr ""
+
+#: vc_shortcode.php:1013
+msgid "Style 5: hover"
+msgstr ""
+
+#: vc_shortcode.php:1030
+msgid "OT Feature Boxes"
+msgstr ""
+
+#: vc_shortcode.php:1106
+msgid "Style 3: box left icon"
+msgstr ""
+
+#: vc_shortcode.php:1108
+msgid "Style 4: Border icon radius"
+msgstr ""
+
+#: vc_shortcode.php:1129
+msgid "OT Call To Action 1"
+msgstr ""
+
+#: vc_shortcode.php:1171 vc_shortcode.php:1317
+msgid "Title call to action"
+msgstr ""
+
+#: vc_shortcode.php:1182 vc_shortcode.php:1346 vc_shortcode.php:2035
+#: vc_shortcode.php:2125 vc_shortcode.php:2219 vc_shortcode.php:2400
+#: vc_shortcode.php:2592 vc_shortcode.php:2682 vc_shortcode.php:2810
+#: vc_shortcode.php:2940
+msgid "Details"
+msgstr ""
+
+#: vc_shortcode.php:1188 vc_shortcode.php:1352
+msgid "Details call to action"
+msgstr ""
+
+#: vc_shortcode.php:1199 vc_shortcode.php:1492
+msgid "Button Text"
+msgstr ""
+
+#: vc_shortcode.php:1216 vc_shortcode.php:1509
+msgid "Button Link"
+msgstr ""
+
+#: vc_shortcode.php:1233 vc_shortcode.php:1399 vc_shortcode.php:2272
+msgid "Button Text 2"
+msgstr ""
+
+#: vc_shortcode.php:1239
+msgid "Add text for button 2"
+msgstr ""
+
+#: vc_shortcode.php:1251 vc_shortcode.php:1417 vc_shortcode.php:2290
+msgid "Button Link 2"
+msgstr ""
+
+#: vc_shortcode.php:1257 vc_shortcode.php:1423
+msgid "Add link for button 2"
+msgstr ""
+
+#: vc_shortcode.php:1270
+msgid "Style 1: one button"
+msgstr ""
+
+#: vc_shortcode.php:1272
+msgid "Style 2: right button "
+msgstr ""
+
+#: vc_shortcode.php:1274
+msgid "Style 3: two button"
+msgstr ""
+
+#: vc_shortcode.php:1292
+msgid "OT Call To Action 2"
+msgstr ""
+
+#: vc_shortcode.php:1329 vc_shortcode.php:1737
+msgid "Subtitle"
+msgstr ""
+
+#: vc_shortcode.php:1335
+msgid "Subtitle call to action"
+msgstr ""
+
+#: vc_shortcode.php:1363 vc_shortcode.php:2236
+msgid "Button Text 1"
+msgstr ""
+
+#: vc_shortcode.php:1369
+msgid "Add text for label button 1"
+msgstr ""
+
+#: vc_shortcode.php:1381 vc_shortcode.php:2254
+msgid "Button Link 1"
+msgstr ""
+
+#: vc_shortcode.php:1387
+msgid "Add link for button 1"
+msgstr ""
+
+#: vc_shortcode.php:1405 vc_shortcode.php:2278
+msgid "Add text for label button 2"
+msgstr ""
+
+#: vc_shortcode.php:1430
+msgid "Style Call To Action"
+msgstr ""
+
+#: vc_shortcode.php:1436
+msgid "Style1: Align Left"
+msgstr ""
+
+#: vc_shortcode.php:1438
+msgid "Style2: Align Center"
+msgstr ""
+
+#: vc_shortcode.php:1442
+msgid "Section Overlay"
+msgstr ""
+
+#: vc_shortcode.php:1455
+msgid "OT Buttons"
+msgstr ""
+
+#: vc_shortcode.php:1475 vc_shortcode.php:2776
+msgid "Icon"
+msgstr ""
+
+#: vc_shortcode.php:1481 vc_shortcode.php:2782
+msgid ""
+"Ex: heart. Find here: <a href='http://fontawesome.io/icons/'>http:"
+"//fontawesome.io/icons</a>"
+msgstr ""
+
+#: vc_shortcode.php:1498 vc_shortcode.php:2058
+msgid "Add text for label button"
+msgstr ""
+
+#: vc_shortcode.php:1515
+msgid "Add link for button"
+msgstr ""
+
+#: vc_shortcode.php:1527
+msgid "Button Type"
+msgstr ""
+
+#: vc_shortcode.php:1534
+msgid "Dark"
+msgstr ""
+
+#: vc_shortcode.php:1536
+msgid "Border Color"
+msgstr ""
+
+#: vc_shortcode.php:1538
+msgid "Border Dark"
+msgstr ""
+
+#: vc_shortcode.php:1552
+msgid "Button Size"
+msgstr ""
+
+#: vc_shortcode.php:1557
+msgid "Small"
+msgstr ""
+
+#: vc_shortcode.php:1559
+msgid "Normal"
+msgstr ""
+
+#: vc_shortcode.php:1561
+msgid "Large"
+msgstr ""
+
+#: vc_shortcode.php:1564
+msgid "Select size"
+msgstr ""
+
+#: vc_shortcode.php:1578
+msgid "OT Testimonials"
+msgstr ""
+
+#: vc_shortcode.php:1596
+msgid "Visible"
+msgstr ""
+
+#: vc_shortcode.php:1602
+msgid "Number testimonials show."
+msgstr ""
+
+#: vc_shortcode.php:1613
+msgid "Style1: Dark Background "
+msgstr ""
+
+#: vc_shortcode.php:1615
+msgid "Style2: Vertical"
+msgstr ""
+
+#: vc_shortcode.php:1617
+msgid "Style2.1: Horizontal"
+msgstr ""
+
+#: vc_shortcode.php:1631
+msgid "OT Search Agent"
+msgstr ""
+
+#: vc_shortcode.php:1654 vc_shortcode.php:1755 framework/meta-boxes.php:235
+msgid "Detail"
+msgstr ""
+
+#: vc_shortcode.php:1660 vc_shortcode.php:1761 vc_shortcode.php:2225
+#: vc_shortcode.php:2598 vc_shortcode.php:2688 vc_shortcode.php:2816
+#: vc_shortcode.php:2946 vc_shortcode.php:3023 vc_shortcode.php:3082
+msgid "Enter the content"
+msgstr ""
+
+#: vc_shortcode.php:1671 vc_shortcode.php:1789
+msgid "Button Submit"
+msgstr ""
+
+#: vc_shortcode.php:1682
+msgid "Search Type"
+msgstr ""
+
+#: vc_shortcode.php:1685
+msgid "Search by Name"
+msgstr ""
+
+#: vc_shortcode.php:1686
+msgid "Search by City"
+msgstr ""
+
+#: vc_shortcode.php:1687
+msgid "Search by Zip Code"
+msgstr ""
+
+#: vc_shortcode.php:1699
+msgid "OT Newsletters"
+msgstr ""
+
+#: vc_shortcode.php:1772
+msgid "Placeholder email"
+msgstr ""
+
+#: vc_shortcode.php:1778
+msgid "Add text for placeholder email."
+msgstr ""
+
+#: vc_shortcode.php:1810
+msgid "OT Clients Logo"
+msgstr ""
+
+#: vc_shortcode.php:1830
+msgid "Logo"
+msgstr ""
+
+#: vc_shortcode.php:1836
+msgid "Upload Logo Client"
+msgstr ""
+
+#: vc_shortcode.php:1847
+msgid "Number Visible Or Row"
+msgstr ""
+
+#: vc_shortcode.php:1870
+msgid "Silder"
+msgstr ""
+
+#: vc_shortcode.php:1872
+msgid "Grid"
+msgstr ""
+
+#: vc_shortcode.php:1888
+msgid "OT Latest News"
+msgstr ""
+
+#: vc_shortcode.php:1925
+msgid "Show number of Latest news"
+msgstr ""
+
+#: vc_shortcode.php:1931
+msgid "number latest news"
+msgstr ""
+
+#: vc_shortcode.php:1942
+msgid "Show Number of excerpt length"
+msgstr ""
+
+#: vc_shortcode.php:1948
+msgid "number excerpt length view."
+msgstr ""
+
+#: vc_shortcode.php:1960
+msgid "Style1: center"
+msgstr ""
+
+#: vc_shortcode.php:1962
+msgid "Style2: left"
+msgstr ""
+
+#: vc_shortcode.php:1981
+msgid "OT Annual Report"
+msgstr ""
+
+#: vc_shortcode.php:2000
+msgid "Image annual report"
+msgstr ""
+
+#: vc_shortcode.php:2006 vc_shortcode.php:2190
+msgid "upload Image"
+msgstr ""
+
+#: vc_shortcode.php:2023
+msgid "Enter the title for Annual report."
+msgstr ""
+
+#: vc_shortcode.php:2041
+msgid "Enter the description for Annual report"
+msgstr ""
+
+#: vc_shortcode.php:2088
+msgid "OT Dropcap"
+msgstr ""
+
+#: vc_shortcode.php:2107
+msgid "Firstcharacter"
+msgstr ""
+
+#: vc_shortcode.php:2113
+msgid "Add first character"
+msgstr ""
+
+#: vc_shortcode.php:2131
+msgid "Enter the details"
+msgstr ""
+
+#: vc_shortcode.php:2144
+msgid "Style1: not box "
+msgstr ""
+
+#: vc_shortcode.php:2146
+msgid "Style2: box style"
+msgstr ""
+
+#: vc_shortcode.php:2165
+msgid "OT Product thumb"
+msgstr ""
+
+#: vc_shortcode.php:2184 framework/meta-boxes.php:24
+msgid "Image"
+msgstr ""
+
+#: vc_shortcode.php:2242
+msgid "Add text button 1"
+msgstr ""
+
+#: vc_shortcode.php:2260
+msgid "Add link button 1"
+msgstr ""
+
+#: vc_shortcode.php:2296
+msgid "Add link button 2"
+msgstr ""
+
+#: vc_shortcode.php:2308
+msgid "Style1: image "
+msgstr ""
+
+#: vc_shortcode.php:2310
+msgid "Style2: text in image"
+msgstr ""
+
+#: vc_shortcode.php:2329
+msgid "OT Our Team"
+msgstr ""
+
+#: vc_shortcode.php:2349
+msgid "Photo"
+msgstr ""
+
+#: vc_shortcode.php:2355
+msgid "Image of team: 500x500"
+msgstr ""
+
+#: vc_shortcode.php:2366
+msgid "Name"
+msgstr ""
+
+#: vc_shortcode.php:2372
+msgid "Name of team"
+msgstr ""
+
+#: vc_shortcode.php:2383
+msgid "Location"
+msgstr ""
+
+#: vc_shortcode.php:2389
+msgid "Job of team"
+msgstr ""
+
+#: vc_shortcode.php:2406
+msgid "Details of team"
+msgstr ""
+
+#: vc_shortcode.php:2423
+msgid "Icon of social 1"
+msgstr ""
+
+#: vc_shortcode.php:2457
+msgid "Icon of social 2"
+msgstr ""
+
+#: vc_shortcode.php:2491
+msgid "Icon of social 3"
+msgstr ""
+
+#: vc_shortcode.php:2525
+msgid "Icon of social 4"
+msgstr ""
+
+#: vc_shortcode.php:2555
+msgid "OT List Box"
+msgstr ""
+
+#: vc_shortcode.php:2575 vc_shortcode.php:2665 vc_shortcode.php:2793
+#: vc_shortcode.php:2923
+msgid "title"
+msgstr ""
+
+#: vc_shortcode.php:2610
+msgid "Link"
+msgstr ""
+
+#: vc_shortcode.php:2616
+msgid "Add lnik for box"
+msgstr ""
+
+#: vc_shortcode.php:2628
+msgid "OT Career Box"
+msgstr ""
+
+#: vc_shortcode.php:2648
+msgid "photo"
+msgstr ""
+
+#: vc_shortcode.php:2654
+msgid "upload image"
+msgstr ""
+
+#: vc_shortcode.php:2699
+msgid "label button"
+msgstr ""
+
+#: vc_shortcode.php:2716
+msgid "Link button"
+msgstr ""
+
+#: vc_shortcode.php:2735
+msgid "Style 1: career"
+msgstr ""
+
+#: vc_shortcode.php:2737
+msgid "Style 2: agent"
+msgstr ""
+
+#: vc_shortcode.php:2756
+msgid "OT Contact Info"
+msgstr ""
+
+#: vc_shortcode.php:2862 vc_shortcode.php:2959
+msgid "Style 1: icon center"
+msgstr ""
+
+#: vc_shortcode.php:2864 vc_shortcode.php:2961
+msgid "Style 2: icon left"
+msgstr ""
+
+#: vc_shortcode.php:2866
+msgid "Style 3: icon left big"
+msgstr ""
+
+#: vc_shortcode.php:2868
+msgid "Style 4:not icon"
+msgstr ""
+
+#: vc_shortcode.php:2886
+msgid "OT Process Box"
+msgstr ""
+
+#: vc_shortcode.php:2906
+msgid "number"
+msgstr ""
+
+#: vc_shortcode.php:2912
+msgid "Enter the number"
+msgstr ""
+
+#: vc_shortcode.php:2979
+msgid "OT Login Box"
+msgstr ""
+
+#: vc_shortcode.php:3005
+msgid "Title login."
+msgstr ""
+
+#: vc_shortcode.php:3017 vc_shortcode.php:3076
+msgid "detail"
+msgstr ""
+
+#: vc_shortcode.php:3038
+msgid "OT Register Box"
+msgstr ""
+
+#: vc_shortcode.php:3064
+msgid "Enter the title."
+msgstr ""
+
+#: framework/meta-boxes.php:17
+msgid "Format Details"
+msgstr ""
+
+#: framework/meta-boxes.php:31
+msgid "Gallery"
+msgstr ""
+
+#: framework/meta-boxes.php:37
+msgid "Quote"
+msgstr ""
+
+#: framework/meta-boxes.php:45
+msgid "Author"
+msgstr ""
+
+#: framework/meta-boxes.php:51
+msgid "Audio"
+msgstr ""
+
+#: framework/meta-boxes.php:60
+msgid "Video"
+msgstr ""
+
+#: framework/meta-boxes.php:73
+msgid "Page Details"
+msgstr ""
+
+#: framework/meta-boxes.php:80 framework/meta-boxes.php:189
+msgid "Page Subtitle"
+msgstr ""
+
+#: framework/meta-boxes.php:86 framework/meta-boxes.php:149
+#: framework/meta-boxes.php:195 framework/meta-boxes.php:333
+msgid "Image top page"
+msgstr ""
+
+#: framework/meta-boxes.php:96
+msgid "slider text Details"
+msgstr ""
+
+#: framework/meta-boxes.php:104 framework/meta-boxes.php:167
+#: framework/meta-boxes.php:207
+msgid "button text"
+msgstr ""
+
+#: framework/meta-boxes.php:110 framework/meta-boxes.php:173
+#: framework/meta-boxes.php:213
+msgid "button link"
+msgstr ""
+
+#: framework/meta-boxes.php:120
+msgid "testimonial details"
+msgstr ""
+
+#: framework/meta-boxes.php:127 framework/meta-boxes.php:201
+msgid "location"
+msgstr ""
+
+#: framework/meta-boxes.php:136
+msgid "Claim details"
+msgstr ""
+
+#: framework/meta-boxes.php:143
+msgid "Claim Subtitle"
+msgstr ""
+
+#: framework/meta-boxes.php:155
+msgid "Detail sub"
+msgstr ""
+
+#: framework/meta-boxes.php:161 framework/meta-boxes.php:241
+msgid "icon"
+msgstr ""
+
+#: framework/meta-boxes.php:182
+msgid "Career details"
+msgstr ""
+
+#: framework/meta-boxes.php:222
+msgid "insurance"
+msgstr ""
+
+#: framework/meta-boxes.php:229
+msgid "Page sub"
+msgstr ""
+
+#: framework/meta-boxes.php:247
+msgid "button text 1"
+msgstr ""
+
+#: framework/meta-boxes.php:253
+msgid "button link 1"
+msgstr ""
+
+#: framework/meta-boxes.php:259
+msgid "button text 2"
+msgstr ""
+
+#: framework/meta-boxes.php:266
+msgid "Image page"
+msgstr ""
+
+#. Name of the template
+#: framework/meta-boxes.php:276
+msgid "Agent"
+msgstr ""
+
+#: framework/meta-boxes.php:283
+msgid "Agent Subtitle"
+msgstr ""
+
+#: framework/meta-boxes.php:289
+msgid "address"
+msgstr ""
+
+#: framework/meta-boxes.php:297
+msgid "phone"
+msgstr ""
+
+#: framework/meta-boxes.php:303
+msgid "btntext"
+msgstr ""
+
+#: framework/meta-boxes.php:309
+msgid "btnlink"
+msgstr ""
+
+#: framework/meta-boxes.php:315
+msgid "mail to"
+msgstr ""
+
+#: framework/meta-boxes.php:321
+msgid "Zip code"
+msgstr ""
+
+#: framework/meta-boxes.php:327
+msgid "City"
+msgstr ""
+
+#: framework/sample-config.php:117
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: framework/sample-config.php:122
+msgid "Search button on header Off?"
+msgstr ""
+
+#: framework/sample-config.php:123 framework/sample-config.php:130
+#: framework/sample-config.php:137 framework/sample-config.php:369
+msgid "Look, it's on!"
+msgstr ""
+
+#: framework/sample-config.php:129
+msgid "Login button on header Off?"
+msgstr ""
+
+#: framework/sample-config.php:136
+msgid "Quote button on header Off?"
+msgstr ""
+
+#: framework/sample-config.php:144
+msgid "Logo & Favicon Settings"
+msgstr ""
+
+#: framework/sample-config.php:150
+msgid "Custom Favicon"
+msgstr ""
+
+#: framework/sample-config.php:153
+msgid "Upload your Favicon."
+msgstr ""
+
+#: framework/sample-config.php:161
+msgid "Custom logo"
+msgstr ""
+
+#: framework/sample-config.php:164
+msgid "Upload your logo."
+msgstr ""
+
+#: framework/sample-config.php:165
+msgid "Upload your logo"
+msgstr ""
+
+#: framework/sample-config.php:173
+msgid "header Settings"
+msgstr ""
+
+#: framework/sample-config.php:178
+msgid "Number Phone"
+msgstr ""
+
+#: framework/sample-config.php:179 framework/sample-config.php:186
+msgid "Input Phone Title"
+msgstr ""
+
+#: framework/sample-config.php:185
+msgid "Number Phone landing page"
+msgstr ""
+
+#: framework/sample-config.php:193
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/sample-config.php:198
+msgid "blog custom excerpt"
+msgstr ""
+
+#: framework/sample-config.php:199 framework/sample-config.php:207
+#: framework/sample-config.php:221
+msgid "Input Blog "
+msgstr ""
+
+#: framework/sample-config.php:206
+msgid "top blog"
+msgstr ""
+
+#: framework/sample-config.php:213
+msgid "top blog 2"
+msgstr ""
+
+#: framework/sample-config.php:214
+msgid "Input Blog 2 "
+msgstr ""
+
+#: framework/sample-config.php:220
+msgid "top blog single"
+msgstr ""
+
+#: framework/sample-config.php:229
+msgid "Blog Background Top Page"
+msgstr ""
+
+#: framework/sample-config.php:232
+msgid "Upload your Blog Background Top Page."
+msgstr ""
+
+#: framework/sample-config.php:233
+msgid "Upload your Blog Background Top Page"
+msgstr ""
+
+#: framework/sample-config.php:240
+msgid "Insurance Settings"
+msgstr ""
+
+#: framework/sample-config.php:245
+msgid "Archive title"
+msgstr ""
+
+#: framework/sample-config.php:246
+msgid "Input archive title"
+msgstr ""
+
+#: framework/sample-config.php:252
+msgid "Archive Description"
+msgstr ""
+
+#: framework/sample-config.php:253
+msgid "Input archive description"
+msgstr ""
+
+#: framework/sample-config.php:260
+msgid "Archive Insurance Background Top Page"
+msgstr ""
+
+#: framework/sample-config.php:263
+msgid "Upload your Archive Insurance Background Top Page."
+msgstr ""
+
+#: framework/sample-config.php:264
+msgid "Upload your Archive Insurance Background Top Page"
+msgstr ""
+
+#: framework/sample-config.php:271
+msgid "social Settings"
+msgstr ""
+
+#: framework/sample-config.php:276
+msgid "Facebook Url"
+msgstr ""
+
+#: framework/sample-config.php:283
+msgid "Google+ Url"
+msgstr ""
+
+#: framework/sample-config.php:290
+msgid "Twitter Url"
+msgstr ""
+
+#: framework/sample-config.php:297
+msgid "rss Url"
+msgstr ""
+
+#: framework/sample-config.php:304
+msgid "Github Url"
+msgstr ""
+
+#: framework/sample-config.php:311
+msgid "Youtube Url"
+msgstr ""
+
+#: framework/sample-config.php:318
+msgid "Linkedin Url"
+msgstr ""
+
+#: framework/sample-config.php:325
+msgid "Dribbble Url"
+msgstr ""
+
+#: framework/sample-config.php:332
+msgid "Behance Url"
+msgstr ""
+
+#: framework/sample-config.php:339
+msgid "Instagram Url"
+msgstr ""
+
+#: framework/sample-config.php:346
+msgid "flickr Url"
+msgstr ""
+
+#: framework/sample-config.php:353
+msgid "Skype Url"
+msgstr ""
+
+#: framework/sample-config.php:362
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/sample-config.php:368
+msgid "Newsletter footer?"
+msgstr ""
+
+#: framework/sample-config.php:376
+msgid "Newsletter text"
+msgstr ""
+
+#: framework/sample-config.php:377
+msgid "Add text"
+msgstr ""
+
+#: framework/sample-config.php:384
+msgid "Footer Text Left"
+msgstr ""
+
+#: framework/sample-config.php:385 framework/sample-config.php:393
+msgid "Copy left Text"
+msgstr ""
+
+#: framework/sample-config.php:392
+msgid "Footer Text Landing"
+msgstr ""
+
+#: framework/sample-config.php:401
+msgid "404 Settings"
+msgstr ""
+
+#: framework/sample-config.php:406
+msgid "404 top Title"
+msgstr ""
+
+#: framework/sample-config.php:407 framework/sample-config.php:415
+msgid "Input 404 Title"
+msgstr ""
+
+#: framework/sample-config.php:414
+msgid "404 Title"
+msgstr ""
+
+#: framework/sample-config.php:422
+msgid "404 Content"
+msgstr ""
+
+#: framework/sample-config.php:423
+msgid "Enter 404 Content"
+msgstr ""
+
+#: framework/sample-config.php:430
+msgid "thumbnail 404"
+msgstr ""
+
+#: framework/sample-config.php:431 framework/sample-config.php:440
+msgid "Text Button Go To Home."
+msgstr ""
+
+#: framework/sample-config.php:432 framework/sample-config.php:441
+msgid "Text Button Go To Home"
+msgstr ""
+
+#: framework/sample-config.php:439
+msgid "Button Back Home"
+msgstr ""
+
+#: framework/sample-config.php:448
+msgid "Styling Options"
+msgstr ""
+
+#: framework/sample-config.php:453
+msgid "Theme Main Color"
+msgstr ""
+
+#: framework/sample-config.php:454
+msgid "Pick the main color for the theme (default: #1757b8)."
+msgstr ""
+
+#: framework/sample-config.php:461
+msgid "Theme main Color 2"
+msgstr ""
+
+#: framework/sample-config.php:462
+msgid "Pick the main color for the theme (default: #ff7841)."
+msgstr ""
+
+#: framework/sample-config.php:469
+msgid "Theme main Color 3"
+msgstr ""
+
+#: framework/sample-config.php:470
+msgid "Pick the main color for the theme (default: #fb5528)."
+msgstr ""
+
+#: framework/sample-config.php:477
+msgid "Footer Background Color"
+msgstr ""
+
+#: framework/sample-config.php:478
+msgid "Pick a background color for the footer (default: #303236)."
+msgstr ""
+
+#: framework/sample-config.php:485
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: framework/sample-config.php:486
+msgid "Pick a background color for the footer bottom (default: #24262a)."
+msgstr ""
+
+#: framework/sample-config.php:493
+msgid "Footer  Color"
+msgstr ""
+
+#: framework/sample-config.php:494
+msgid "Pick a  color for the footer (default: #62656a)."
+msgstr ""
+
+#: framework/sample-config.php:503
+msgid "Body Font"
+msgstr ""
+
+#: framework/sample-config.php:504
+msgid "Specify the body font properties."
+msgstr ""
+
+#: framework/sample-config.php:517
+msgid "CSS Code"
+msgstr ""
+
+#: framework/sample-config.php:518
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: page-templates/template-agent.php:87 page-templates/template-blog.php:60
+msgid "Nothing Found Here!"
+msgstr ""
+
+#. Name of the template
+msgid "Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Canvas"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Home 2"
+msgstr ""
+
+#. Name of the template
+msgid "Landing"
+msgstr ""
+
+#: framework/widget/recent-post.php:10
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: framework/widget/recent-post.php:11
+msgid "insurance Recent Posts"
+msgstr ""
+
+#: framework/widget/recent-post.php:36
+msgid "Recent Posts"
+msgstr ""
+
+#: framework/widget/recent-post.php:101
+msgid "Title:"
+msgstr ""
+
+#: framework/widget/recent-post.php:104
+msgid "Number of posts to show:"
+msgstr ""
+
+#: framework/widget/recent-post.php:108
+msgid "Display post date?"
+msgstr ""
+
+#. Name of the theme
+msgid "Insurance"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Peace is an insurance agency WordPress Theme designed for insurance company, "
+"individual agent, small insurance company or other companies with insurance "
+"&amp; financial related services.Peace is modern, clean &amp; professional "
+"layout makes sure your insurance agency builds trust. Peace template has a "
+"lot of features like Slider, insurance product gallery. Find an agent, claim "
+"center, Agent, Single Investor, Financial report, Annual meeting Reopen ? "
+"Download, Career, Wizard form, call to Actions, How it works &amp; many "
+"short codes."
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.vegatheme.com/insurance"
+msgstr ""
+
+#. Author of the theme
+msgid "OceanThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://oceanthemes.net/"
+msgstr ""
